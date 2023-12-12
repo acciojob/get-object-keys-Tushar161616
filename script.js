@@ -3,4 +3,4 @@ let student = {
 	name : "tushar"
 }
 let keys = student.getKeys();
-console.log(Keys);
+console.log(keys);
