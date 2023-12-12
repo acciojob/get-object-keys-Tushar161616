@@ -2,4 +2,5 @@
 let student = {
 	name : "tushar"
 }
-console.log(getKeys(student));
+let keys = student.getKeys();
+console.log(Keys);
